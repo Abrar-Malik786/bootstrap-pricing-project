@@ -1,0 +1,18 @@
+body {
+    background-color: #121212;
+    color: #f5f5f5;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 10px;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.btn-outline-primary {
+    width: 100%;
+}
